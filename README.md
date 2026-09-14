@@ -2,6 +2,9 @@
 
 A portfolio-ready two-tier media optimization application built with Python, SQL Server, PuLP and Streamlit.
 
+![Media Optimization Engine](assets/media_optimization_engine_cover.png)
+
+
 ## Architecture
 
 `SQL Server → Tier 1 Heuristic → Tier 2 MIP → Validation → SQL Results → Streamlit`
